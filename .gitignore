@@ -31,3 +31,8 @@ frontend-app/dist/
 # Env
 .env
 .env.local
+
+# Temp scripts
+capture_screenshots.js
+package.json
+package-lock.json
