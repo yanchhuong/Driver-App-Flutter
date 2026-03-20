@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Flutter
+frontend-app/flutter/build/
+frontend-app/flutter/.dart_tool/
+frontend-app/flutter/.flutter-plugins
+frontend-app/flutter/.flutter-plugins-dependencies
+frontend-app/flutter/windows/flutter/ephemeral/
+
+# Java / Maven
+backend-mvc/target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# React build
+UI/dist/
+frontend-app/dist/
+
+# Env
+.env
+.env.local
